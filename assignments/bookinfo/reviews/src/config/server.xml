@@ -20,7 +20,7 @@
 
     <variable name="env.CONTEXT_ROOT" defaultValue="/"/>
 
-    <httpEndpoint host="*" httpPort="8082" httpsPort="-1"
+    <httpEndpoint host="*" httpPort="9080" httpsPort="-1"
                   id="defaultHttpEndpoint"/>
 
     <webContainer deferServletLoad="false"/>
